@@ -2,7 +2,7 @@
 
 ### Description
 
-This is a small Java project used to instantiate a class, and its methods, while getting familiar with UML class diagrams. The CoinToss program selects a random numer between 1 and 2, (1 being heads, 2 being tails). It then gathers the users input to calculate If the guess is similar or not to the computers random toss.
+This is a small Java project used to instantiate a class, and its methods, while getting familiar with UML class diagrams. The CoinToss program selects a random numer between 1 and 2, (1 being heads, 2 being tails). It then gathers the users input to calculate If the guess is equal or not equal to the computers random toss.
 
 ### To Run
 
