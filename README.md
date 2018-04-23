@@ -16,4 +16,18 @@ $ java CoinToss
 
 ### Output
 
-The program asks the user to enter their heads/tails guess 4 times. Thenit displays how many times the user guessed it correctly and guessed it wrong. 
+Below is an example of the program ran on time. (Remeber, each time it uses random numbers, so the output wont always look like this)
+
+```
+Enter your guess 4 times..... Enter Heads or Tails to work
+Whats your guess, heads or tails?
+heads
+Whats your guess, heads or tails?
+heads
+Whats your guess, heads or tails?
+heads
+Whats your guess, heads or tails?
+heads
+2 times you guessed it correctly.
+2 times you guessed it incorrectly.
+```
