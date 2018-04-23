@@ -16,7 +16,7 @@ $ java CoinToss
 
 ### Output
 
-Below is an example of the program ran on time. (Remeber, each time it uses random numbers, so the output wont always look like this)
+Below is an example of the program executed. (Remeber, each time the program uses random numbers, so the output wont always look like this)
 
 ```
 Enter your guess 4 times..... Enter Heads or Tails to work
